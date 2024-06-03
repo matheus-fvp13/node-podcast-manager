@@ -5,5 +5,9 @@
     "outDir": "./dist", 
     "esModuleInterop": true,
     "strict": true
-  }
+  },
+  "include": [
+    "src/**/*",
+    "src/repositories/podcasts.json",
+  ]
 }

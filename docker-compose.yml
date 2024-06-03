@@ -1,0 +1,7 @@
+version: '3'
+services:
+  podcast-manager-api:
+    build: .
+    image: node-podcast-manager:latest
+    ports:
+      - "5036:5036"
