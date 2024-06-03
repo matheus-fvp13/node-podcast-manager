@@ -6,10 +6,10 @@ O Podcast Manager é uma API REST que permite centralizar diferentes episódios 
 ## Dominio
 ```json
 {
-    podcastName: "flow",
-    episode: "CBUM - Flow #319",
-    videoId: "pQSuQmUfS30",
-    categories: ["saúde", "esporte", "bodybuilder"]
+    "podcastName": "flow",
+    "episode": "CBUM - Flow #319",
+    "videoId": "pQSuQmUfS30",
+    "categories": ["saúde", "esporte", "bodybuilder"]
 }
 ```
 
